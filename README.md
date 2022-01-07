@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/68985625/130225398-33339094-791b-45ea-89ad-460e73594d8d.jpg" width=80%>
 
 ## About Travelog
-* **Simplify** keeping record and reviewing trips
+* **Simplify** keeping record of and reviewing trips
 1. Real-time automatic travel route recognition through GPS.
 2. Automatic recognition of each location the user is visiting.
 3. User completes trip review by selecting among TRIP keys and adding comments to each photo.
