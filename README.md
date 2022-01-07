@@ -8,14 +8,14 @@
 
 ## About Travelog
 * **Simplify** keeping record of and reviewing trips
-1. Real-time automatic travel route recognition through GPS.
+1. Real-time automatic recognition of travel route through GPS.
 2. Automatic recognition of each location the user is visiting.
 3. User completes trip review by selecting among TRIP keys and adding comments to each photo.
 </br>
 
 * **Customized** travelling information based on user's personal needs
 1. Easily readable details of the whole trip.
-2. Using keywords to meet personal preferences.</br>
+2. Using keywords to provide information that meets personal preferences.</br>
   ***T**ransportation  **R**evisit  **I**dea  **P**rice*
 </br>
 
