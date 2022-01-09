@@ -7,6 +7,7 @@
 <img src="https://user-images.githubusercontent.com/68985625/130225398-33339094-791b-45ea-89ad-460e73594d8d.jpg" width=80%>
 
 ## About Travelog
+*Travelog can ...*
 * **Simplify** keeping record of and reviewing trips
 1. Real-time automatic recognition of travel route through GPS.
 2. Automatic recognition of each location the user is visiting.
